@@ -1,7 +1,7 @@
 #include <math.h> 
 #include <stdio.h> 
 
-double findSQRT(double N) 
+double findSQRT(int N) 
 { 
 	return sqrt(N); 
 } 
