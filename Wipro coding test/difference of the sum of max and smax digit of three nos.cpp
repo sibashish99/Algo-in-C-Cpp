@@ -7,9 +7,9 @@
 //         1    second largest digit
 //         3
 //         1
-//    total-> 8
+//    total-> 5
 //    
-//    diff = 15 -8 = 7(o/p)
+//    diff = 15 -5 = 10(o/p)
 #include<stdio.h>
 int fun(int num){
 	int max=0, smax=0, digit;
