@@ -10,14 +10,12 @@ int swap(int *a,int *b)
 int main()
 {
 	int a,b;
-	printf("Enter first number-\n");
 	scanf("%d",&a);
-	printf("Enter second number-\n");
 	scanf("%d",&b);
 
 	swap(&a,&b);
-	printf("First number after swapping- %d\n",a);
-	printf("Second number after swapping- %d\n",b);
+	printf("%d\n",a);
+	printf("%d\n",b);
 
 
 }
