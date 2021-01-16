@@ -17,7 +17,7 @@ int secMax(int a[i],int n,int m){
 		}
 		
 	}
-    return max;
+    return smax;
 }
 int main(){
 	int n,a[1000];
